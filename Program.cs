@@ -7,5 +7,5 @@
 // day2Answer.RunPartB();
 
 var day3Answer = new Day3Answer();
-day3Answer.RunPartA();
-// day3Answer.RunPartB();
+// day3Answer.RunPartA();
+day3Answer.RunPartB();
